@@ -70,7 +70,7 @@ Soy un desarrollador fullstack especializado en **ML/Data Science** con experien
 ---
 
 <p align="center">
-  <img src="output2.gif" width="500"/>
+  <img src="output4.gif" width="500"/>
 </p>
 
 ## 🔗 Conecta conmigo
