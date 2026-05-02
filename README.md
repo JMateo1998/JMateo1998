@@ -69,6 +69,10 @@ Soy un desarrollador fullstack especializado en **ML/Data Science** con experien
 
 ---
 
+<p align="center">
+  <img src="output.gif" width="500"/>
+</p>
+
 ## 🔗 Conecta conmigo
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/JMateo1998)
