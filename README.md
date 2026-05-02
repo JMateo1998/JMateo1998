@@ -100,7 +100,10 @@
   </circle>
 </svg>
 
-# 👋 Hola, soy Mateo
+<h1>
+  Hola, soy Mateo 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 **Desarrollador Python | Data Science | MLOps | DevOps for AI**
 
